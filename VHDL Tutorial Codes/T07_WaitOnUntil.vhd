@@ -17,14 +17,14 @@ begin
 	
 	process is
 	begin
-		wait on CountUp ,CountDown ;
+		wait on CountUp ,CountDown ; -- run if there any change in CountDown and CountUp
 		report "CountUp = " & integer'image(CountUp) &
 		" CountDown = " & integer'image(CountDown);		
 	end process;
 	
 	process is
 	begin
-		wait until CountUp = CountDown ;
+		wait until CountUp = CountDown ; -- Run if this statatmnet true
 		report "Both are same !!!";
 	end process;
 		
