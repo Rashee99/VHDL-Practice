@@ -27,16 +27,16 @@ R1
 R2
 n@_opt1
 R3
+R0
 T_opt2
-!s110 1701857721
-Vn:IWBJW`i>5I_PHkVdY_C3
-04 12 3 work t06_signaltb sim 1
-=3-6c3be53840f4-657049b9-357-3a2c
+!s110 1701860071
+VGemcI8hanTzQcFVz5b<^53
+04 8 3 work t08_iftb sim 1
+=1-6c3be53840f4-657052e7-132-240c
 R1
 R2
 n@_opt2
 R3
-R0
 Et01_helloworldtb
 Z4 w1701839015
 Z5 dC:/shared/GitHub/VHDL-Practice
@@ -248,7 +248,7 @@ R49
 R13
 R14
 Et07_waitonuntil
-Z50 w1701858941
+Z50 w1701859215
 R5
 Z51 8C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T07_WaitOnUntil.vhd
 Z52 FC:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T07_WaitOnUntil.vhd
@@ -258,9 +258,9 @@ V[dei[7XTKe:R1l5UG[8hU1
 !s100 ZID;:]V6T:LNn20nKnoTM1
 R8
 32
-Z53 !s110 1701858946
+Z53 !s110 1701859377
 !i10b 1
-Z54 !s108 1701858946.000000
+Z54 !s108 1701859377.000000
 Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T07_WaitOnUntil.vhd|
 Z56 !s107 C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T07_WaitOnUntil.vhd|
 !i113 0
@@ -279,6 +279,41 @@ R53
 R54
 R55
 R56
+!i113 0
+R13
+R14
+Et08_iftb
+Z57 w1701860042
+R5
+Z58 8C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T08_IfTb.vhd
+Z59 FC:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T08_IfTb.vhd
+l0
+L1
+V`@z[<7e__eCO_il<i46ID2
+!s100 2HPfLMeYL@ekzMPc0RzFY3
+R8
+32
+Z60 !s110 1701860045
+!i10b 1
+Z61 !s108 1701860045.000000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T08_IfTb.vhd|
+Z63 !s107 C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T08_IfTb.vhd|
+!i113 0
+R13
+R14
+Asim
+DEx4 work 8 t08_iftb 0 22 `@z[<7e__eCO_il<i46ID2
+l8
+L4
+VH7F3SHh2SRea50<Xd35EQ2
+!s100 ?QW?M_;YC8XjHA9LVDS830
+R8
+32
+R60
+!i10b 1
+R61
+R62
+R63
 !i113 0
 R13
 R14
