@@ -1,0 +1,13 @@
+{C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T01_HelloWorldTb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T01_HelloWorldTb.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Compiling entity T01_HelloWorldTb
+-- Compiling architecture sim of T01_HelloWorldTb
+
+} {} {}} {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T02_WaitForTb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T02_WaitForTb.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Compiling entity T02_WaitForTb
+-- Compiling architecture sim of T02_WaitForTb
+
+} {} {}}
