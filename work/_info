@@ -28,6 +28,15 @@ R3
 n@_opt1
 R4
 R0
+T_opt2
+!s110 1701850629
+V>k:jU]SHF@YW<zg2NNV0M3
+04 13 3 work t04_forlooptb sim 1
+=1-6c3be53840f4-65702e05-26e-a20
+R2
+R3
+n@_opt2
+R4
 Et01_helloworldtb
 Z5 w1701839015
 Z6 dC:/shared/GitHub/VHDL-Practice
@@ -118,7 +127,7 @@ Z29 !s107 C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T03_LoopTb.vhd|
 R14
 R15
 Asim
-Z30 DEx4 work 10 t03_looptb 0 22 c]<V`NZHIc;KI>;S>21@[3
+DEx4 work 10 t03_looptb 0 22 c]<V`NZHIc;KI>;S>21@[3
 l5
 L4
 VYgg`bQ;MJDS:Q@0;YI9ZZ2
@@ -130,6 +139,41 @@ R26
 R27
 R28
 R29
+!i113 0
+R14
+R15
+Et04_forlooptb
+Z30 w1701850312
+R6
+Z31 8C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T04_ForLoopTb.vhd
+Z32 FC:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T04_ForLoopTb.vhd
+l0
+L1
+VR`W6YCm[9k4<E]]j7f]`C0
+!s100 A:1E:bE8z=H4HaAE[gZlW0
+R9
+32
+Z33 !s110 1701850610
+!i10b 1
+Z34 !s108 1701850610.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T04_ForLoopTb.vhd|
+Z36 !s107 C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T04_ForLoopTb.vhd|
+!i113 0
+R14
+R15
+Asim
+DEx4 work 13 t04_forlooptb 0 22 R`W6YCm[9k4<E]]j7f]`C0
+l5
+L4
+V2<R]LgQ8aIhi<GS:dHAZ_3
+!s100 2N[U8:V]fL29VYdJZVEfB3
+R9
+32
+R33
+!i10b 1
+R34
+R35
+R36
 !i113 0
 R14
 R15
