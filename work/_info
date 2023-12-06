@@ -27,16 +27,16 @@ R1
 R2
 n@_opt1
 R3
+R0
 T_opt2
-!s110 1701850629
-V>k:jU]SHF@YW<zg2NNV0M3
-04 13 3 work t04_forlooptb sim 1
-=1-6c3be53840f4-65702e05-26e-a20
+!s110 1701857721
+Vn:IWBJW`i>5I_PHkVdY_C3
+04 12 3 work t06_signaltb sim 1
+=3-6c3be53840f4-657049b9-357-3a2c
 R1
 R2
 n@_opt2
 R3
-R0
 Et01_helloworldtb
 Z4 w1701839015
 Z5 dC:/shared/GitHub/VHDL-Practice
@@ -178,7 +178,7 @@ R35
 R13
 R14
 Et05_whilelooptb
-Z36 w1701852018
+Z36 w1701852348
 R5
 Z37 8C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T05_WhileLoopTb.vhd
 Z38 FC:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T05_WhileLoopTb.vhd
@@ -188,9 +188,9 @@ V^[@cMAP9AGI1;@9beJ[?F3
 !s100 _SP8YKZcAlJ]e;S;7ZAa@0
 R8
 32
-Z39 !s110 1701852025
+Z39 !s110 1701855972
 !i10b 1
-Z40 !s108 1701852025.000000
+Z40 !s108 1701855972.000000
 Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T05_WhileLoopTb.vhd|
 Z42 !s107 C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T05_WhileLoopTb.vhd|
 !i113 0
@@ -209,6 +209,41 @@ R39
 R40
 R41
 R42
+!i113 0
+R13
+R14
+Et06_signaltb
+Z43 w1701857704
+R5
+Z44 8C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T06_SignalsTb.vhd
+Z45 FC:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T06_SignalsTb.vhd
+l0
+L1
+V<E1V1>9hILcgY4CMQM]=D3
+!s100 9Oz[^S50m:LNznFQiinAF0
+R8
+32
+Z46 !s110 1701857708
+!i10b 1
+Z47 !s108 1701857708.000000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T06_SignalsTb.vhd|
+Z49 !s107 C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T06_SignalsTb.vhd|
+!i113 0
+R13
+R14
+Asim
+DEx4 work 12 t06_signaltb 0 22 <E1V1>9hILcgY4CMQM]=D3
+l8
+L4
+V`m`Md6Za^0SY5FFaG<N>=1
+!s100 YaPd9FA3M5J<G1IYacMcF2
+R8
+32
+R46
+!i10b 1
+R47
+R48
+R49
 !i113 0
 R13
 R14
