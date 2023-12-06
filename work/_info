@@ -19,15 +19,14 @@ n@_opt
 Z3 OL;O;10.6d;65
 R0
 T_opt1
-!s110 1701852046
-Vfe41_Yh<4;M5fMa;5KO;A2
-04 15 3 work t05_whilelooptb sim 1
-=1-6c3be53840f4-6570338e-1a0-336c
+!s110 1701858964
+Vbf_ZKJ22K6]RYV_j8K]390
+04 15 3 work t07_waitonuntil sim 1
+=1-6c3be53840f4-65704e94-2a0-11b4
 R1
 R2
 n@_opt1
 R3
-R0
 T_opt2
 !s110 1701857721
 Vn:IWBJW`i>5I_PHkVdY_C3
@@ -37,6 +36,7 @@ R1
 R2
 n@_opt2
 R3
+R0
 Et01_helloworldtb
 Z4 w1701839015
 Z5 dC:/shared/GitHub/VHDL-Practice
@@ -244,6 +244,41 @@ R46
 R47
 R48
 R49
+!i113 0
+R13
+R14
+Et07_waitonuntil
+Z50 w1701858941
+R5
+Z51 8C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T07_WaitOnUntil.vhd
+Z52 FC:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T07_WaitOnUntil.vhd
+l0
+L1
+V[dei[7XTKe:R1l5UG[8hU1
+!s100 ZID;:]V6T:LNn20nKnoTM1
+R8
+32
+Z53 !s110 1701858946
+!i10b 1
+Z54 !s108 1701858946.000000
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T07_WaitOnUntil.vhd|
+Z56 !s107 C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T07_WaitOnUntil.vhd|
+!i113 0
+R13
+R14
+Asim
+DEx4 work 15 t07_waitonuntil 0 22 [dei[7XTKe:R1l5UG[8hU1
+l8
+L4
+V^d>AJ2oUffm8:NZgon5d@3
+!s100 ]HEX1FCcL0C7_ion:`PUM3
+R8
+32
+R53
+!i10b 1
+R54
+R55
+R56
 !i113 0
 R13
 R14
