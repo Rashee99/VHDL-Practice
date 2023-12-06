@@ -1,4 +1,16 @@
-{C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T06_SignalsTb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T06_SignalsTb.vhd}
+{C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T08_IfTb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T08_IfTb.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Compiling entity T08_IfTb
+-- Compiling architecture sim of T08_IfTb
+
+} {} {}} {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T07_WaitOnUntil.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T07_WaitOnUntil.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Compiling entity T07_WaitOnUntil
+-- Compiling architecture sim of T07_WaitOnUntil
+
+} {} {}} {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T06_SignalsTb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T06_SignalsTb.vhd}
 Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
 -- Loading package STANDARD
 -- Compiling entity T06_SignalTb
