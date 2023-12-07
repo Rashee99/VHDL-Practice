@@ -19,24 +19,24 @@ n@_opt
 Z3 OL;O;10.6d;65
 R0
 T_opt1
-!s110 1701860985
-V7An]nF9R2:36]NI;bMV5K0
-04 21 3 work t09_sensitivitylisttb sim 1
-=1-6c3be53840f4-65705679-268-3234
+!s110 1701939285
+VFP6`1ZcX:WLZk5?0DO=a`0
+04 14 3 work t10_stdlogictb sim 1
+=1-6c3be53840f4-65718854-3e5-3624
 R1
 R2
 n@_opt1
 R3
-R0
 T_opt2
-!s110 1701937315
-V:QKc<EVcPgM@[eigh;idO1
-04 14 3 work t10_stdlogictb sim 1
-=1-6c3be53840f4-657180a3-189-3464
+!s110 1701939228
+V]f8d=E]z;YzddV8`YZRTY2
+04 16 3 work t01_helloworldtb sim 1
+=1-6c3be53840f4-6571881c-27-3d94
 R1
 R2
 n@_opt2
 R3
+R0
 Et01_helloworldtb
 Z4 w1701839015
 Z5 dC:/shared/GitHub/VHDL-Practice
@@ -388,6 +388,45 @@ R76
 R77
 R78
 R79
+!i113 0
+R13
+R14
+Et11_stdlogicvectortb
+Z80 w1701938912
+R72
+R73
+R5
+Z81 8C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T11_StdLogicVectorTb.vhd
+Z82 FC:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T11_StdLogicVectorTb.vhd
+l0
+L4
+VgDRbP?bD`>Q;_TRh4CDBn2
+!s100 od3`oC=j1IeM3H3diM:Kg0
+R8
+32
+Z83 !s110 1701938918
+!i10b 1
+Z84 !s108 1701938918.000000
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T11_StdLogicVectorTb.vhd|
+Z86 !s107 C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T11_StdLogicVectorTb.vhd|
+!i113 0
+R13
+R14
+Asim
+R72
+R73
+DEx4 work 20 t11_stdlogicvectortb 0 22 gDRbP?bD`>Q;_TRh4CDBn2
+l13
+L7
+V]JUffKc9U]NHMe8Q4TCNB2
+!s100 eD9mGX3n:nCVjKgj2kRkK1
+R8
+32
+R83
+!i10b 1
+R84
+R85
+R86
 !i113 0
 R13
 R14
