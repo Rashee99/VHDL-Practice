@@ -22,6 +22,12 @@ Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
 -- Compiling entity T05_WhileLoopTb
 -- Compiling architecture sim of T05_WhileLoopTb
 
+} {} {}} {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T09_SensitivityListTb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T09_SensitivityListTb.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Compiling entity T09_SensitivityListTb
+-- Compiling architecture sim of T09_SensitivityListTb
+
 } {} {}} {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T04_ForLoopTb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/shared/GitHub/VHDL-Practice/VHDL Tutorial Codes/T04_ForLoopTb.vhd}
 Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
 -- Loading package STANDARD
